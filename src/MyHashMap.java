@@ -9,7 +9,7 @@ import java.util.function.BiFunction;
 import java.util.function.Consumer;
 import java.util.function.Function;
 public class MyHashMap extends AbstractMap<K,V> implements Map<K,V> {
-	public static void main(String[] args){
-		
+	public static void main(){
+		int wq = 9;
 	}
 }
